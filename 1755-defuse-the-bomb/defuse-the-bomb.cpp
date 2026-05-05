@@ -9,7 +9,7 @@ public:
     int sum = 0;
     int start, end;
 
-    // Case 1: k > 0 → forward window
+    
     if (k > 0) {
         start = 1;
         end = k;
